@@ -16,7 +16,7 @@
 title: "davidnilo.com"
 email: davidnilo94@gmail.com
 description: "Blog de David Nilo"
-url: http://davidnilo.com # the base hostname & protocol for your site, e.g. http://example.com
+url: https://davidnilo.com # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:
 lang: es_ES
 logo: /assets/logos/logo.png
