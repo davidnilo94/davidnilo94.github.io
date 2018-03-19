@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /bibliografía/
+permalink: /bibliografia/
 ---
 ## 1994:
 

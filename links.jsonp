@@ -15,11 +15,11 @@ callback([
   }
   {
     "text": "bibliografía",
-    "href": "{{site.url}}{{site.baseurl}}/bibliografía/"
+    "href": "{{site.url}}{{site.baseurl}}/bibliografia/"
   }
   {
     "text": "¿Que es davidnilo.com?",
-    "href": "{{site.url}}{{site.baseurl}}/¿Que-es-davidnilo.com?/"
+    "href": "{{site.url}}{{site.baseurl}}/Que-es-davidnilo.com/"
   }
 {% for post in site.posts %}
   {
