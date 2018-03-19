@@ -1,8 +1,10 @@
 ---
 layout: pages
-permalink: /bibliografia/
+permalink: /biografia/
 ---
-# Bibliografía
+# Biografía
+
+![biografia.jpg]({{site.baseurl}}/media/biografia.jpg)
 
 ## 1994:
 
