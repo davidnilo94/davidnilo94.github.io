@@ -2,6 +2,8 @@
 layout: pages
 permalink: /bibliografia/
 ---
+# Bibliografía
+
 ## 1994:
 
 Millennial de nacimiento, de esos de los que iban a cambiar el modo de entender la tecnología y la economía. Estamos en ello, veamos en unos años.
