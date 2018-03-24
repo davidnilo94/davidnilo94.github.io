@@ -37,7 +37,7 @@ webmaster_verifications:
   alexa:
   yandex:
   baidu:
-google_analytics:
+google_analytics: UA-116304412-1
 
 # Build settings
 markdown: kramdown
