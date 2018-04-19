@@ -117,7 +117,7 @@ prose:
           element: "text"
           label: "Titulo"
           value:
-      - name: date
+      - name: "date"
         field:
           element: "text"
           label: "Fecha"
