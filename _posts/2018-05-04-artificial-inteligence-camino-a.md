@@ -11,7 +11,7 @@ Del tratamiento masivo de datos, nace el Big Data. Del Big Data, nace la Intelig
 
 La existencia de redes neuronales, que, entrenadas mediante datos, puedan darnos un output determinado por sí mismas, sin estar previamente programadas, nunca pareció una cuestión baladí, sino que, por el contrario, ha infundido temor en muchos sectores, que miran con recelo estas tecnologías, por ser potenciales verdugos de los puestos de trabajo, tal y como los conceptualizamos actualmente.
 
-En Silicon Valley, nacimiento tecnológico predilecto, se empieza a hablar de IA (Inteligence Augmentation), en lugar de AI (Artificial Inteligence). La IA pone el énfasis en el uso de la AI, para la ayuda de los humanos, y no para su sustitución en sus respectivas ocupaciones.
+En Silicon Valley, nacimiento tecnológico predilecto, se empieza a hablar de IA (Intelligence Augmentation), en lugar de AI (Artificial Inteligence). La IA pone el énfasis en el uso de la AI, para la ayuda de los humanos, y no para su sustitución en sus respectivas ocupaciones.
 
 Añadiendo un poco de crítica ácida a la argumentación de los californianos, mencionaré que, sin lugar a dudas, la irrupción de la AI en los distintos mercados, causará más de un estrago, pues funciones que tradicionalmente han sido realizadas por personas, pasarán a ser realizadas por las mencionadas redes neuronales, que alimentadas por millones de datos, podrán razonar una solución probablemente mejor que la tomada por un humano, pues los pilares utilizados para realizar el análisis, son mucho mayores.
 
