@@ -4,7 +4,7 @@ date: '2018-05-04 11:19 +0200'
 image: /media/artificial-intelligence-2228610_1920.jpg
 disqus: true
 published: true
-title: 'Artificial Inteligence, camino a…'
+title: 'Artificial Intelligence, camino a…'
 description: De la AI a la IA
 ---
 Del tratamiento masivo de datos, nace el Big Data. Del Big Data, nace la Inteligencia Artificial, y de esta, el Deep learning.
