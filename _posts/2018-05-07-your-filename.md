@@ -1,11 +1,11 @@
 ---
 layout: posts
-date: '2018-05-07 19:36 +0200'
-image: 'https://cdn.pixabay.com/photo/2018/04/11/19/48/3d-printer-3311587_960_720.png'
+date: '2018-15-07 19:36 +0200'
 disqus: true
 published: true
 title: 'La nueva industria del retail:'
 description: 'Cambiando, y mucho'
+image: 'https://cdn.pixabay.com/photo/2018/04/11/19/48/3d-printer-3311587_960_720.png'
 ---
 ## La nueva industria del retail
 
