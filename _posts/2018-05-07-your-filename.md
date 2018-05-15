@@ -5,7 +5,7 @@ disqus: true
 published: true
 title: 'La nueva industria del retail:'
 description: 'Cambiando, y mucho'
-image: 'https://cdn.pixabay.com/photo/2018/04/10/17/44/3d-printer-3308166_960_720.png'
+image: 'file:///Users/dmunoz/Downloads/3d-printer-3311587_960_720.png'
 ---
 ## La nueva industria del retail
 
