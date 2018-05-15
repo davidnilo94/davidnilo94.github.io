@@ -1,6 +1,5 @@
 ---
 layout: posts
-date: '2018-15-07 9:00 +0200'
 disqus: true
 published: true
 title: 'La nueva industria del retail:'
