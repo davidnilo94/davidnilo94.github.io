@@ -10,6 +10,7 @@ description: 'Cambiando, y mucho'
 ## La nueva industria del retail
 
 
+
 La industria del retail, lejos de ser estática e inflexible, ha estado inmersa, desde su nacimiento, en un constante proceso de transformación. Estos cambios, han radicado en sus canales de distribución, formas de producción, conductas y roles de compra, tipologías de estas…
 
 De las ventas de armas por catálogo del lejano Oeste, a los gigantes de internet multidisciplinares. Los cambios, aunque en algunos casos sigilosos, han estado presentes en todas las épocas. 
@@ -37,4 +38,3 @@ Todo esto, recaerá en complejos cambios en las formas de distribución, venta y
 Este planteamiento, se puede extrapolar a otros muchos bienes, como fundas y accesorios para Smartphone, piezas de desguace, robots…, y todo lo que puedas imaginar.
 
 Quizá en un futuro, las tiendas físicas sean tan sólo un reflejo, de lo que la industria del retail fue, relegadas al papel de ser activos inmobiliarios, donde enseñar de forma física, todo tu portfolio de productos, haciendo más hincapié en el marketing y la creación de marca, que en el hecho de ser distribuidoras.
-
