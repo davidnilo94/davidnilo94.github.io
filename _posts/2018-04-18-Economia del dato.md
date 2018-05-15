@@ -3,8 +3,9 @@ layout: posts
 disqus: true
 image: /media/articulo1.jpg
 published: true
-description:
 title: Economía del dato
+date: '2018-05-15 13:27 +0200'
+description: Los nuevos líderes mundiales
 ---
 Desde hace ya algunos años, se acabó eso de “mira la enciclopedia”, revísalo en el libro de texto, llama a…, seguro que él sabe… El mundo, nos guste o no, ha cambiado, y en este cambio, han entrado nuevas formas de consultar la información. Esta, se ha convertido en una herramienta masiva, que, mediante una actualización constante, nos permite abordar problemas en un periodo de tiempo, considerablemente acortado.
 
