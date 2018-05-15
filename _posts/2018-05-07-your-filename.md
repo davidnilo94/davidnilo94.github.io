@@ -3,7 +3,7 @@ layout: posts
 date: '2018-05-07 19:36 +0200'
 image: /media/
 disqus: true
-published: false
+published: true
 title: 'La nueva industria del retail:'
 ---
 ## La nueva industria del retail
