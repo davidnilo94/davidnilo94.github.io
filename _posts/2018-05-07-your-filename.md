@@ -5,7 +5,6 @@ image: /media/
 disqus: true
 published: false
 title: 'La nueva industria del retail:'
-description: ''
 ---
 ## La nueva industria del retail
 
