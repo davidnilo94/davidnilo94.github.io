@@ -4,7 +4,7 @@ date: '2018-05-29 17:23 +0200'
 image: /media/anos-60-1300474_960_720.png
 disqus: true
 published: true
-title: Untitled
+title: El futuro del entretenimiento
 description: Lucha por contenidos propios
 ---
 ## El futuro del entretenimiento
