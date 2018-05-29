@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2018-05-29 17:23 +0200'
-image: '/media/https://cdn.pixabay.com/photo/2012/05/04/09/30/tv-46909_960_720.png'
+image: /media/anos-60-1300474_960_720.png
 disqus: true
 published: true
 title: Untitled
