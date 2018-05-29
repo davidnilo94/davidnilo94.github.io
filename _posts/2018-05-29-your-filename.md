@@ -29,4 +29,3 @@ Ahora bien, como suele ser natural, la competencia surgió, naciendo plataformas
 
 Debemos salir otra vez de la nueva caja, seguir innovando, sentar nuevas bases.
 Quien sabe, quizá elementos como la oferta de contenidos en realidad virtual (en los que ya algunas empresas están trabajando), sean la perfecta vía de escape, hacia nuevas realidades empresariales, hacia nuevas empresas disruptivas.
-
