@@ -5,7 +5,7 @@ image: /media/
 disqus: true
 published: false
 title: 'Los golpes de Estado del siglo XXI:'
-description: ''
+description: Algo más Sibilinos
 ---
 ## Los golpes de Estado del siglo XXI:
 
