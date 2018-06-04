@@ -1,12 +1,13 @@
 ---
 layout: posts
 date: '2018-06-04 16:50 +0200'
-image: /media/
+image: /media/business-1869266_960_720.png
 disqus: true
-published: false
+published: true
 title: 'Los golpes de Estado del siglo XXI:'
 description: Algo más Sibilinos
 ---
+![nube palabras fake news]({{site.baseurl}}/media/business-1869266_960_720.png)
 ## Los golpes de Estado del siglo XXI:
 
 ## Algo más sibilinos…
@@ -29,5 +30,4 @@ El escenario en el que la tergiversación se fragua, no es otro, que las grandes
 
 Las masas críticas juegan un papel crucial, y buena prueba de ello, es alguna red social de capital americano instalada en Cuba (ninguna de las famosas), que según Wikileaks, pretendía, mediante el disfraz de red recreativa, instalar una determinada corriente de pensamiento, en la isla castrista.
 
-Lleno de ejemplos está el mundo, las conceptualizaciones cambian, aunque en el fondo, el mismo modo de proceder se esconde tras ellas, eso sí, presentándose de formas mucho más sibilinas que en el pasado. 
-
+Lleno de ejemplos está el mundo, las conceptualizaciones cambian, aunque en el fondo, el mismo modo de proceder se esconde tras ellas, eso sí, presentándose de formas mucho más sibilinas que en el pasado.
