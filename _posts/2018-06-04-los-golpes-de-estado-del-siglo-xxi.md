@@ -19,7 +19,7 @@ En el presente post, no vamos a hablar de los tweets políticos, ni de las fotos
 
 El 23 de febrero del 81, veíamos entrar a un teniente coronel, pistola en mano, en el Congreso de los Diputados. De su “quieto todo el mundo”, y sus disparos en el techo, ya han pasado 37 años, en los que el mundo, nos guste o no, ha cambiado, y mucho. La tecnología, en la actualidad, representa, en su cara más oscura, una potente arma de manipulación, usada sin dudarlo, por grandes corporaciones y gobiernos mundiales. El fenómeno de las “fake news”, ya acapara un porcentaje nada desdeñable del volumen real. Y se estima, que, en las elecciones americanas, de las que Trump salió victorioso, las 20 noticias falsas más virales, acumularon 9 millones de reacciones en Facebook (frente a los 7 millones de sus homónimas reales). 
 
-![fake news]({{site.baseurl}}/media/fake-1903774_960_720.png)![fake-1903774_960_720.png]
+![fake news]({{site.baseurl}}/media/fake-1903774_960_720.png)!
 En realidad, las fake news, no es algo nuevo, ya que, siglos atrás, ya se utilizaban como medio de manipulación mediática, en panfletos y comunicaciones. Sin embargo, la inclusión de la RRSS en nuestros día a día, ha proporcionado, un perfecto medio de propagación, para este tipo de contenidos, que viajan a velocidad vertiginosa a través de la red, y calan en la mente de los votantes, con una velocidad pasmosa.
 
 
