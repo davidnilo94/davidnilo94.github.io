@@ -4,7 +4,7 @@ date: '2018-06-12 10:39 +0200'
 image: /media/cubiertosicono.png
 disqus: true
 published: true
-title: Untitled
+title: El futuro de la restauración
 description: 'Singular, especializado, y a domicilio.'
 ---
 ## EL FUTURO DE LA RESTAURACIÓN
