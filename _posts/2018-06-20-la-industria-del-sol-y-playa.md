@@ -5,7 +5,7 @@ image: /media/holiday-389978_960_720.png
 disqus: true
 published: true
 title: La industria del sol y playa
-description: La industria del sol y playa
+description: 'Democratizada, sin intermediarios'
 ---
 ## La nueva industria del sol y playa
 ##Democratizada, sin intermediarios.
@@ -34,5 +34,4 @@ Si nos movemos a alquileres de media estancia, vemos a empresas como la español
 Está claro, que la oferta se ha multiplicado, y con ella, una guerra legal se ha desatado, donde los distintos lobbys presionan por una regulación de la misma, que proteja a los negocios tradicionales, y expulse a todo ese “exceso”, que provoca distintos males en las ciudades. En este escenario, empezamos a escuchar con frecuencia términos como “gentrificación” (palabra proveniente del término anglosajón: gentry: alta burguesía), que hace alusión a la llegada de inversión a los barrios tradicionales y deteriorados, desembocando en una híper inflación de los alquileres de los apartamentos, que acaba desplazando a los primeros moradores del lugar, hacía otros barrios periféricos, donde por el motivo que sea, no se lleva tanto el “postureo”.
 Un ejemplo muy claro de gentrificación, lo vemos en ciudades como Oporto, donde un parque inmobiliario deteriorado, pasa a transformarse en uno nuevo e impoluto, que pasa a albergar decenas de miles de turistas anualmente.
 
-Quien sabe, quizá nuevas legislaciones frenen este devenir del mercado, o quizá se continúe con esta tendencia, eso sí, por seguro damos que esos 6000 kms de costa, estarán repletos de turistas. 
-
+Quien sabe, quizá nuevas legislaciones frenen este devenir del mercado, o quizá se continúe con esta tendencia, eso sí, por seguro damos que esos 6000 kms de costa, estarán repletos de turistas.
