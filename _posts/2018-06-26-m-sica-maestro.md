@@ -1,11 +1,11 @@
 ---
 layout: posts
 date: '2018-06-26 10:25 +0200'
-image: /media/
+image: /media/boy-158039_960_720.png)
 disqus: true
-published: false
+published: true
 title: Música Maestro!
-description: ''
+description: 'Walkman, iPod, Spotify'
 ---
 ## Música Maestro!
 
