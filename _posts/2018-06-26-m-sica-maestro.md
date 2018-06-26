@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2018-06-26 10:25 +0200'
-image: /media/boy-158039_960_720.png)
+image: /media/boy-158039_960_720.png
 disqus: true
 published: true
 title: Música Maestro!
