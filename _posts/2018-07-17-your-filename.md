@@ -1,11 +1,11 @@
 ---
 layout: posts
 date: '2018-07-17 09:12 +0200'
-image: /media/
+image: /media/ecommerce-1706105_960_720.png)
 disqus: true
-published: false
-title: ''
-description: ''
+published: true
+title: Flagship stores que no venden nada
+description: e-commerce y buen funcionamiento
 ---
 ## FLAGSHIP STORES, QUE NO VENDEN NADA
 
