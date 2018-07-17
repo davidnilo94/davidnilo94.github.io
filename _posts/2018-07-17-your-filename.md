@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2018-07-17 09:12 +0200'
-image: /media/ecommerce-1706105_960_720.png)
+image: /media/ecommerce-1706105_960_720.png
 disqus: true
 published: true
 title: Flagship stores que no venden nada
