@@ -31,4 +31,3 @@ En esta tesitura, volvemos a ver el gran poder de las tecnológicas sobre el res
 
 Estos, sientan las reglas de juego para establecer el orden en la “lista”. Estas reglas, atañen fundamentalmente a la organización de tus elementos web. Se premia el respeto a las mismas, y se dan las pautas para estar bien posicionado. No obstante, para evitar posibles ventajismos, Google cambia estos algoritmos de búsqueda unas 500 veces al año.
 Sean los primeros de la lista o no, seguiremos incrementando la facturación de e-commerce, con estos millennials seguro.
-
