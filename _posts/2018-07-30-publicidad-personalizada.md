@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2018-07-30 09:29 +0200'
-image: /media/social-2412463_960_720.png)
+image: /media/social-2412463_960_720.png
 disqus: true
 published: true
 title: Publicidad personalizada
@@ -30,7 +30,4 @@ El aspirador, que funciona solo, toma las medidas de tu casa, y ve que hay un hu
 
 Bajo estas nuevas técnicas, resulta paradójico que los medios mejor pagados, sean los de distribución masiva, como las televisiones, cuya segmentación ha quedado relegada a un más que merecido segundo puesto.
 
-¿Seguirá la publicidad creando tendencias, o serán las tendencias las que creen publicidad? 
-
-
-
+¿Seguirá la publicidad creando tendencias, o serán las tendencias las que creen publicidad?
