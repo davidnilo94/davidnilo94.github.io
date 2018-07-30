@@ -1,10 +1,11 @@
 ---
 layout: posts
 date: '2018-07-30 09:29 +0200'
-image: /media/
+image: /media/social-2412463_960_720.png)
 disqus: true
-published: false
+published: true
 title: Publicidad personalizada
+description: 'Nos conocen, y mucho'
 ---
 ## Publicidad personalizada
 
