@@ -24,7 +24,10 @@ Esta brecha, pone una separación cada vez más grande, cuanta más diferencia h
 
 Al margen de los lógicos frenos al cambio que procesan algunas personas integrantes de las generaciones anteriores, estas brechas digitales, provocan un cambio en la manera en la que ambas tipologías de sujetos, se comportan y relacionan con el entorno. 
 Esto, a su vez, desemboca en cambios y roturas del mercado, escenario en el que ahora conviven diferentes modelos de negocio, unos más disruptivos, y otros más tradicionales.
-[generaciones]({{site.baseurl}}/media/7223135722_34802d94e8_b.jpg)!
+
+
+![anciano ordenador]({{site.baseurl}}/media/7223135722_34802d94e8_b.jpg)!
+
 
 
 Por ilustrar el razonamiento con un ejemplo: una familia se va de vacaciones
