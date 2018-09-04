@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2018-09-04 11:19 +0200'
-image: /media/Imagen 1.png
+image: /media/Imagen1.png
 disqus: true
 published: true
 title: 'Brecha intergeneracional Digital: '
@@ -10,8 +10,9 @@ description: Más grande de lo que parece
 ## Brecha intergeneracional Digital: 
 
 ### Más grande de lo que parece
+![youngster+elderly]({{site.baseurl}}/media/Imagen1.png)
 
-![icon elderly]({{site.baseurl}}/media/Imagen 1.png)
+
 La brecha digital, es esa distancia que tenemos los distintos grupos sociales (ya sea por demografía, cultura, generaciones…), ante el uso y apropiación de las diferentes tecnologías presentes en nuestra sociedad.
 
 Como veremos ahora, esta brecha es algo muy presente en nuestra sociedad, aunque a decir cierto, no es algo nuevo, sino solamente otro cúmulo de diferencias a sumar a nuestra ya larga lista de brechas presentes a lo largo de la historia.
@@ -23,7 +24,7 @@ Esta brecha, pone una separación cada vez más grande, cuanta más diferencia h
 
 Al margen de los lógicos frenos al cambio que procesan algunas personas integrantes de las generaciones anteriores, estas brechas digitales, provocan un cambio en la manera en la que ambas tipologías de sujetos, se comportan y relacionan con el entorno. 
 Esto, a su vez, desemboca en cambios y roturas del mercado, escenario en el que ahora conviven diferentes modelos de negocio, unos más disruptivos, y otros más tradicionales.
-![generaciones]({{site.baseurl}}/media/7223135722_34802d94e8_b.jpg)!
+[generaciones]({{site.baseurl}}/media/7223135722_34802d94e8_b.jpg)!
 
 
 Por ilustrar el razonamiento con un ejemplo: una familia se va de vacaciones
