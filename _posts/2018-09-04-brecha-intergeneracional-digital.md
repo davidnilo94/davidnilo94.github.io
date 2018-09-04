@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2018-09-04 11:19 +0200'
-image: /media/
+image: /media/Imagen 1.png)
 disqus: true
 published: true
 title: 'Brecha intergeneracional Digital: '
