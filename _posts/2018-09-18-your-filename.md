@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2018-09-18 12:10 +0200'
-image: /media/ggfrs.png
+image: /media/fsd.png
 disqus: true
 published: true
 title: '¿Bancos Tecnológicas, o tecnológicas bancos?'
