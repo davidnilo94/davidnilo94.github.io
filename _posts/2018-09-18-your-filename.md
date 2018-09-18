@@ -1,11 +1,11 @@
 ---
 layout: posts
 date: '2018-09-18 12:10 +0200'
-image: /media/
+image: /media/ggfrs.png
 disqus: true
-published: false
-title: ''
-description: ''
+published: true
+title: '¿Bancos Tecnológicas, o tecnológicas bancos?'
+description: Efecto colateral del caracter multidisciplinar
 ---
 
 
