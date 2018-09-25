@@ -34,4 +34,3 @@ Un ejemplo de esto, puede ser Bizum (mejor producto Fintech de 2017), tecnologí
 Bizum, al igual que otros productos de fintech, supuso una hábil jugada de las entidades financieras frente a posibles maniobras de mercado de las grandes tecnológicas.
 
 ¿Serán los pagos con Smartphone también la antesala a la eliminación del dinero físico?, sin duda al menos veremos el intento. Aunque en nuestro caso, la economía sumergida supondrá un gran obstáculo en el desempeño de este objetivo.
-
