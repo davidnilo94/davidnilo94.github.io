@@ -11,7 +11,8 @@ description: Mucho más que criptomonedas
 
 ## Mucho más que criptomonedas
 
-![pago smartphone]({{site.baseurl}}/media/rewqre.png)
+![pago movil]({{site.baseurl}}/media/rewqre.png)
+
 
 En la página principal de este blog, podéis encontrar de forma esquemática y sintética, los ejes tecnológicos, que en mi humilde opinión, van a protagonizar el futuro. 
 Uno de ellos es el Fintech, termino resultante de unir Financial, y Technology, y que hace alusión a la aplicación e inclusión de la tecnología en el sector financiero, con el objeto de mejorar sus productos y servicios.
