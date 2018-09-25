@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2018-09-25 09:14 +0200'
-image: /media/
+image: /media/rewqre.png
 disqus: true
 published: true
 title: 'Fintech: mucho más que criptomonedas'
@@ -11,7 +11,7 @@ description: Mucho más que criptomonedas
 
 ## Mucho más que criptomonedas
 
-![pago smartphone]({{site.baseurl}}/media/rewqre.png)![rewqre.png]({{site.baseurl}}/media/rewqre.png)
+![pago smartphone]({{site.baseurl}}/media/rewqre.png)
 
 En la página principal de este blog, podéis encontrar de forma esquemática y sintética, los ejes tecnológicos, que en mi humilde opinión, van a protagonizar el futuro. 
 Uno de ellos es el Fintech, termino resultante de unir Financial, y Technology, y que hace alusión a la aplicación e inclusión de la tecnología en el sector financiero, con el objeto de mejorar sus productos y servicios.
@@ -24,6 +24,8 @@ Estos clientes, disfrutan ahora de un alto nivel de información sobre sus cuent
 
 Lejos de pretender ser una app de gestión de gastos, la intención de todos estos productos, es la de gestión y explotación de datos, que, mediante las debidas integraciones verticales con los respectivos bancos, derivan en otro tipo de servicios, como la concesión de pequeños préstamos (según puntuaciones sacadas de tus estadísticas), aspecto en el que ya trabajan de manera conjunta, el BBVA y Fintonic.
 Este hecho, junto con las excelsas rondas de financiación protagonizadas por ya no tan start up, Fintonic (más de 25 millones de euros), sustentan el apoyo de los grandes bancos a este tipo de soluciones.
+
+![fintech]({{site.baseurl}}/media/dadsf.png)
 
 Por otra parte, estos clientes, al igual que en otros muchos sectores, han pasado a formar parte activa del proceso productivo, o, dicho con otras palabras, han pasado a convertirse en trabajadores y colaboradores de los procesos, antes delegados en el capital humano de las entidades.
 En este aspecto, las plataformas virtuales bancarias, junto con otras start-ups Fintech, han jugado un papel fundamental en lo que posteriormente ha supuesto, una amplia reducción de las estructuras de los grandes bancos, quienes han visto reducido, el número de sus sucursales, encontrando solamente en las de renombre, una buena baza para la creación de marca y prestigio en el mercado.
