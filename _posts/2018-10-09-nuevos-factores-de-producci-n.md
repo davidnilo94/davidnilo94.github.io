@@ -1,10 +1,11 @@
 ---
 layout: posts
 date: '2018-10-09 10:40 +0200'
-image: /media/
 disqus: true
-published: false
+published: true
 title: Nuevos factores de producción
+description: Consecuencias sobre la totalidad del sistema
+image: /media/fdsaf.png
 ---
 
 
@@ -12,7 +13,7 @@ title: Nuevos factores de producción
 
 ## Consecuencias sobre la totalidad del sistema
 
-![robots]({{site.baseurl}}/media/fdsaf.png)!
+![robots]({{site.baseurl}}/media/fdsaf.png)
 
 Tierra, trabajo, capital y organización, quizá te suene a clase de historia de instituto, en la que se hablaba de la teoría económica a partir de la cual se explicaba la generación de todo bien y/o servicio presente en el mercado.
 Estos, podían ser utilizados en sí mismos, o en su defecto, ser transformados, para la consecución de dicho fin.
@@ -24,6 +25,8 @@ Como toda teoría, ha ido evolucionando a lo largo de los años, introduciendo y
 
 Como no podía ser de otra manera, la inclusión de la tecnología en nuestros mercados, ha provocado una modificación sustancial de esta más que madura teoría. 
 Si extrapolamos el razonamiento de la economía clásica a los tiempos actuales, vemos una clara predominancia del capital y el factor humano, pero, sin embargo, si estudiamos la tendencia para el futuro, vemos que nuevos factores como el dato, la transformación de este mediante el análisis y tratamiento, y el surgimiento de tecnologías como la inteligencia artificial, dan lugar a un nuevo sistema productivo.
+
+![ojo tech]({{site.baseurl}}/media/fdsafsaf.png)
 
 En este nuevo sistema, hablamos de una sustitución del capital humano, que no solamente atañe a las tareas menos cualificadas, sino también a las que más capacidad de análisis y raciocinio requieren. Asimismo, hablamos de una multiplicación de esa variable llamada productividad, que desemboca en una ruptura de ese techo, creado por los límites de la inteligencia humana.
 
