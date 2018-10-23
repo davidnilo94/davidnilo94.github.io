@@ -15,7 +15,7 @@ description: Proyectos que sustituyeron a otros sin intención de hacerlo
 
 En el mercado, como en la guerra, se libran encarnizadas batallas, que dejan empresas ganadoras, y empresas perdedoras, que, por los daños de las acontecidas batallas, tienden abandonar el terreno de juego, o a sucumbir hacia papeles secundarios dentro de este.
 
-Se trata de empresas fabricantes de productos sustitutivos, que compiten con otras de mismas o distintas características, para cubrir una necesidad concreta a un determinado target, segmentado según unos criterios cada vez más específicos, que permiten super-personalizar el estudio individualizado de cada individuo (poner el link del artículo de las redes sociales).
+Se trata de empresas fabricantes de productos sustitutivos, que compiten con otras de mismas o distintas características, para cubrir una necesidad concreta a un determinado target, segmentado según unos criterios cada vez más específicos, que permiten super-personalizar el estudio individualizado de cada individuo [Publicidad personalizada](http://davidnilo.com/2018/07/30/publicidad-personalizada/ "Publicidad personalizada").
 
 Otras empresas, sin embargo, cubren otra parte de la cadena de producción, generando productos complementarios, que como su propio nombre indica, complementan a otros productos (valga el ejemplo del azúcar y el café de primero de economía).
 
