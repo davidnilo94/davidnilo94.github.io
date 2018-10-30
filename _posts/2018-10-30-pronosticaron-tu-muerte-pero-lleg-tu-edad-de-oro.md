@@ -10,6 +10,7 @@ description: 'Pronosticaron tu muerte, pero llegó tu edad de oro'
 ## Pronosticaron tu muerte, pero llegó tu edad de oro
 
 ## A veces un cambio que vaticina tu fin, hace que vivas una nueva edad dorada.
+
 ![grave icon]({{site.baseurl}}/media/aasasdf.png)
 
 Los actores económicos, en la mayoría de los países desarrollados, operan a su libre albedrío, compitiendo y haciendo llegar a millones de consumidores, artículos de muy distinta índole.
