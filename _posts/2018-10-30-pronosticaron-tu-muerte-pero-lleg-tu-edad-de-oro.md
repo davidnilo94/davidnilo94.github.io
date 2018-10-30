@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2018-10-30 09:21 +0100'
-image: /media/sdfads.png
+image: /media/aasasdf.png
 disqus: true
 published: true
 title: 'Pronosticaron tu muerte, pero llegó tu edad de oro.'
