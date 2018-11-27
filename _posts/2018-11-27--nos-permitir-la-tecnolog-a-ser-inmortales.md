@@ -24,6 +24,8 @@ Estos mercados, son solamente piedras que ponemos al paso del tiempo, y que lame
 
 Ahora bien, anualmente, destinamos miles de millones a mejorar esta industria contra el paso del tiempo, y, por consiguiente, avanzamos en nuestro propósito de permanecer impertérritos ante este inevitable hecho. Y es aquí, donde la tecnología está jugando y jugará un papel fundamental.
 
+![VELA]({{site.baseurl}}/media/VELA.png)
+
 Por otra parte, en las relaciones y lazos que establecemos unos con otros, nos duele tener que despedirnos, separarnos de seres queridos, cuyos relojes biológicos se apagan. Esta dependencia sentimental, se focaliza más en las mentes que en los cuerpos, ya que, con el paso del tiempo, son estas las que van tomando protagonismo.
 
 Poder revertir la muerte, se torna bastante complicado. Aunque, ¿que pasaría si pudiésemos recrear el comportamiento de una determinada persona en una máquina?
