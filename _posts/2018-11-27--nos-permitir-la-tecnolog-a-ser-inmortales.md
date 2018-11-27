@@ -1,10 +1,11 @@
 ---
 layout: posts
 date: '2018-11-27 10:54 +0100'
-image: /media/
+image: /media/fedsafds.png
 disqus: true
-published: false
+published: true
 title: ¿Nos permitirá la tecnología ser inmortales?
+description: Mentes recreadas por AI
 ---
 ## ¿Nos permitirá la tecnología ser inmortales?
 
