@@ -1,15 +1,18 @@
 ---
 layout: posts
 date: '2018-12-19 09:33 +0100'
-image: /media/
+image: /media/sizes.png
 disqus: true
-published: false
+published: true
 title: 'Los de la economía del medio: entre la espada y la pared.'
+description: 'La virtud, fuera del justo medio.'
 ---
 
 ## Los de la economía del medio: entre la espada y la pared.
 
 ## Virtud fuera del justo medio
+
+![sizes]({{site.baseurl}}/media/sizes.png)
 
 Aunque el celebérrimo Aristóteles predicaba, que era el justo medio entre los extremos el lugar donde albergaba la virtud, no siempre la economía ha permitido la permanencia de empresas de tamaños medios en algunos sectores. 
 Estas, por unas razones u otras, han acabado por desaparecer de un marco de juego, donde tanto los grandes como los pequeños, han ejercido una presión contra ti, que en un determinado momento dejó de ser soportable.
@@ -21,6 +24,8 @@ En el caso del extremo superior, las multinacionales, vemos que disponen de marc
 
 Aunque la calidad del pequeño es en muchas ocasiones, mayor que la del grande, las marcas se acaban imponiendo, haciendo de blindaje ante futuros problemas que puedan surgir en el desarrollo del proyecto, y sirviendo de escudo, para los decisores en la contratación, que decidieron elegir al proveedor que parecía fuerte, y no al que parecía más débil. 
 En estas ocasiones, el arraigo al territorio y a la empresa local, puede suponer un freno ante el arraso de la pequeña y mediana empresa, aunque lamentablemente, en muchos territorios, carentes de una identidad local, este hecho brilla por su ausencia.
+
+![skyline]({{site.baseurl}}/media/skyline.png)
 
 En el otro lado de la balanza, las start ups, empresas de reciente creación y pequeño tamaño, que utilizan el inflado de expectativas, para poder salir al mercado con grandes cantidades de financiación, y, por ende, una capacidad financiera mucho más grande que sus competidores directos, las PYMES. Cierto es, que las expectativas son mal aval en el largo plazo, y que sin unos resultados que lo justifiquen, los inversores cortoplacistas, abandonan sus posiciones.
 
