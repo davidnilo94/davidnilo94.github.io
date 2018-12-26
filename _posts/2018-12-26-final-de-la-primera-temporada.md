@@ -1,14 +1,18 @@
 ---
 layout: posts
 date: '2018-12-26 13:37 +0100'
-image: /media/
+image: /media/design-3754328_960_720.jpg
 disqus: true
-published: false
+published: true
 title: Final de la primera temporada
+description: Mirad todos los temas que hemos tratado!
 ---
 ## Final de la primera temporada (2018):
 
 ## ¡Mirad todos los temas que hemos tratado!
+
+
+![2018]({{site.baseurl}}/media/design-3754328_960_720.jpg)
 
 El tema de la tecnología da para hablar largo y tendido, ha sido un año en el que hemos tratado temas de distinta índole, pero con un nexo común, el como la tecnología hace mella en los distintos sectores y mercados, cambiando las reglas del juego para todos, consumidores, competidores, decisores, compradores, usuarios, legisladores… 
 
@@ -19,6 +23,9 @@ Han sido 27 post, en los que hemos cuestionado los límites del raciocinio human
 Ahora bien, siempre tuvimos en cuenta la presencia de la [moral y ética humanas](http://davidnilo.com/2018/10/03/tica-vs-estad-stica/), y la dificultad de que estas se repliquen en una máquina cualquiera. 
 
 Asimismo, hemos puesto en tela de juicio la globalización, viendo cómo hemos perdido determinadas identidades empresariales locales, abocados a la hegemonía de un grupo de reducidas multinacionales, abrazadas cada vez más a actividades más multidisciplinares.
+
+![laptop]({{site.baseurl}}/media/laptop-2548104_960_720.jpg)
+
 
 No ha faltado tiempo tampoco para hablar de política, y de cómo las [fake news](http://davidnilo.com/2018/06/04/los-golpes-de-estado-del-siglo-xxi/) alteran las voluntades del pueblo, y tergiversan la información, de tal manera que se fraguan silenciosos golpes de estado, planeados quizá a miles de kilómetros de distancia del lugar de los hechos.
 
