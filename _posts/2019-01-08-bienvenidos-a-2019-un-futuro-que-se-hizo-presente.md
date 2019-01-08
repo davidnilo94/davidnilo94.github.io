@@ -1,15 +1,18 @@
 ---
 layout: posts
 date: '2019-01-08 09:16 +0100'
-image: /media/
+image: /media/robot-3114245_960_720.png
 disqus: true
-published: false
+published: true
 title: 'Bienvenidos a 2019, un futuro que se hizo presente'
+description: Un futurismo mal representado
 ---
 
 ## Bienvenidos a 2019, un futuro que se hizo presente
 
 ## Un futurismo mal representado
+
+![robot icon]({{site.baseurl}}/media/robot-3114245_960_720.png)
 
 Bueno, primeramente, feliz año a todos los que me estáis leyendo, y por supuesto, agradeceros de nuevo vuestro tiempo y atención que me prestáis cada semana.
 
@@ -22,6 +25,9 @@ Sin embargo, siempre hemos sido muy fantasiosos, y hemos pensado que el futuro n
 El problema en la movilidad de las grandes ciudades lo dilucidamos bien, y pensamos que la solución para este, sería abrir la circulación a la tercera dimensión, con coches voladores, tubos aéreos de pasajeros (a modo de metro), e increíbles ciudades subterráneas que albergaban altas y potentes infraestructuras para nuestra movilidad.
 
 Pues bien, ya estamos aquí, y no, lo coches no vuelan, sino que (a las políticas recientes me remito), ya no son bienvenidos en el entorno urbano. En este, son cada vez más comunes las vías estrechas, los carriles bicicleta, y los cada vez más famosos patinetes eléctricos. Por otra parte, a los motores diésel, que tantos éxitos y fama cosecharon en el pasado, ya no se les quiere ver ni el pelo.
+
+![elevators]({{site.baseurl}}/media/elevator-1598431_960_720.jpg)
+
 
 En estas series, veíamos que la comunicación se hacía a través de mensajes grabados en hologramas, que habían dejado atrás a las pantallas tradicionales. Pues bien, tenemos móviles muy potentes, orientados a una gran capacidad de funciones, pero que sin embargo, no se han desarrollado en ese sentido (quizá más la rama de la AR).
 
